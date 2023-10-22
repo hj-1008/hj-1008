@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=hj-1008&fontColor=1e81fb)
 <!--
 **hj-1008/hj-1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
