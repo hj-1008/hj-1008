@@ -50,3 +50,11 @@
 <a href="https://velog.io/@khj981008/%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-MoneyMate">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
 </a>
+
+#### 세미 프로젝트_kHotel
+<a href="https://github.com/js-donot-sick/k-hotel">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+</a>
+<a href="https://velog.io/@khj981008/%EC%84%B8%EB%AF%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-kHotel">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
+</a>
