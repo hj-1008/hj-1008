@@ -14,8 +14,10 @@
     <a href="https://velog.io/@khj981008">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
+    
 </div><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khj981008)](https://github.com/khj981008/velog-readme-stats)
 
 ### 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
