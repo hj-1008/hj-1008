@@ -4,7 +4,7 @@
 
 ![hj-1008's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj-1008&show_icons=true&theme=shadow_blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hj-1008&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hj-1008&layout=donut-vertical)](https://github.com/hj-1008/github-readme-stats)
 
 ### 📞 Contact 📞
 <a href="mailto:khj981008@gmail.com">
