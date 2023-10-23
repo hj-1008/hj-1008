@@ -38,6 +38,15 @@
 </div>
 
 ### 📗Projects
+
+#### 파이널 프로젝트_MoneyMate
+<a href="https://github.com/KH-FInal-Jo/moneymate">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+</a>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSuLZon8GiY55w51WtvdsmSCe1qKUFTcc-3czfjg9AaVy8_qiwBWv-eu6xRPe_Z1LlYw2ohK5j54IHi/pub?start=false&loop=false&delayms=3000">
+    <img src="https://img.shields.io/badge/googleslides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white"> 
+</a>
+
+<a href="https://velog.io/@khj981008/%ED%8C%8C%EC%9D%B4%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-MoneyMate">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
 </a>
