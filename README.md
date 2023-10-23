@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=hj-1008&fontColor=1e81fb)
 
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hj-1008)
+
 ![hj-1008's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj-1008&show_icons=true&theme=shadow_blue)
 
 ### 📞 Contact 📞
@@ -7,6 +9,13 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@khj981008">
+        <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
+    </a>
+</div><br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
 
 ### 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
