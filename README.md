@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 
-## 💻 DEV's log 💻
+### 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@khj981008">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
@@ -36,3 +36,8 @@
     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
 </div>
+
+### 📗Projects
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vSuLZon8GiY55w51WtvdsmSCe1qKUFTcc-3czfjg9AaVy8_qiwBWv-eu6xRPe_Z1LlYw2ohK5j54IHi/pub?start=false&loop=false&delayms=3000">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
+</a>
